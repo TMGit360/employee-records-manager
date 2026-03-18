@@ -267,7 +267,7 @@ def view_dict(employee_dict, filename):
 
 
 def main():
-    print("Assignment 8 - Part 2\n")
+
 
     while True:
         filename = "employee.txt"
