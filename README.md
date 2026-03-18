@@ -18,4 +18,21 @@ Simple command-line Python program for managing employee salary records.
 
 All names and data shown in this demo are fictional and used only for demonstration purposes.
 
-## AI-assisted development 
+## Run the Program
+
+1. Clone the repository
+
+git clone https://github.com/TMGit360/employee-records-manager.git
+
+2. Navigate to the project folder
+
+cd employee-records-manager
+
+3. Run the program
+
+python employee_manager.py
+
+## Requirements
+
+- Python 3 installed
+- No external libraries required
