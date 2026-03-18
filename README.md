@@ -1,4 +1,4 @@
-# employee-records-manager
+# Employee Records Manager
 CLI Python tool for managing employee records with CRUD operations.
 
 # Python Employee Records CLI
